@@ -1,6 +1,0 @@
-streamlit
-pykrx
-pandas
-numpy
-plotly
-requests
