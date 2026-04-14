@@ -1,0 +1,9 @@
+분리 배포 권장 이름 예시
+
+GitHub 저장소 이름:
+three-day-spike-screener
+
+Streamlit 앱 이름 예시:
+three-day-spike-screener.streamlit.app
+
+이렇게 하면 어제 만든 앱과 코드/배포/주소가 완전히 분리됩니다.
